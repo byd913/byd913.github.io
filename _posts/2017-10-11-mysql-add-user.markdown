@@ -10,6 +10,7 @@ location: Beijing, China
 description: 新安装mysql后新建用户和对用户授权操作
 ---
 ---
+[toc]
 
 ## 登录MySQL
 安装MySQL后，初始root没有密码。
