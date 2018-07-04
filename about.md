@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 {{ site.description }}
-![jackbai]({{ site.about }})

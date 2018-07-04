@@ -4,7 +4,7 @@ title:  "Boost Ptree库多线程解析JSON崩溃"
 date:   2018-05-10 11:05:00
 categories: Boost
 tags: Boost, Ptree, JSON
-author: tony
+author: LuckyBoy
 location: Beijing, China
 description: 解决Boost PTree多线程解析JSON崩溃问题
 ---

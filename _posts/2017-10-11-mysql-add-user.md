@@ -3,14 +3,12 @@ layout: post
 title:  "Mysql 用户的创建和授权"
 date:   2017-10-11 20:05:14 +0100
 categories: mysql
-tags: mysql
-author: tony
+tags: mysql, user, remote
 cover: "https://raw.githubusercontent.com/byd913/byd913.github.io/master/_assets/mysql.jpg"
 location: Beijing, China
 description: 新安装mysql后新建用户和对用户授权操作
 ---
 ---
-[toc]
 
 ## 登录MySQL
 安装MySQL后，初始root没有密码。
