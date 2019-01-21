@@ -12,7 +12,7 @@ description: tmux常用快捷键记录
 
 # 背景描述
 
-在使用python编写pyspark代码的时候，能够在jupyter notebook交互执行是非常方便的。
+在使用python编写pyspark代码的时候，能够在jupyter notebook交互执行是非常方便的。
 
 # 一、设置PYSPARK变量
 
@@ -21,7 +21,7 @@ export PYSPARK_DRIVER_PYTHON=jupyter
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 ```
 
-# 二、 启动pyspark
+# 二、启动pyspark
 
 ```shell
 pyspark --master=local[*]
