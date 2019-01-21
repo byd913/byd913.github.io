@@ -64,5 +64,5 @@ prefix 为前置的按键，默认为`ctrl+b`，每次需要先按前置按键�
 
 # 其他
 
-tmux attach -d：恢复并且attach到一个session
-tmux attach -t session_name 指定session的名称
+* tmux attach -d：恢复并且attach到一个session
+* tmux attach -t session_name 指定session的名称
