@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "配置pyspark为jupyter"
-date:   2019-01-22 10:00:00
+title: "配置pyspark为jupyter"
+date: 2019-01-22 10:00:00
 categories: Spark
 tags: Spark, PySpark, Jupyter
 author: LuckyBoy
